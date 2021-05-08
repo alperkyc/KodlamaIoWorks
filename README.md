@@ -1,5 +1,6 @@
 # KodlamaIoWorks
-Java Kamp Hafta 4 Ödev 3
+Java Kamp Hafta 5 Ödev 1
 
-![outpu1](https://user-images.githubusercontent.com/55048902/117073870-3ba0c600-ad3b-11eb-9b58-a33abaffee54.PNG)
+![work5](https://user-images.githubusercontent.com/55048902/117540735-3385a680-b019-11eb-9ef1-a025c071d874.PNG)
+
 
